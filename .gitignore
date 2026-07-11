@@ -1,0 +1,21 @@
+
+#все пароли тут, от бд и другое, поэтому убираем из гита
+/.env
+
+/nginx/log/
+/nginx/ssl/
+/nginx/conf.d/
+
+/postgres/data/
+/postgres/dump/
+
+/redis/data/
+
+# папка с загружаемыми файлами
+#/www/public/uploads/
+#/www/public/uploads
+
+# ну и ide-шные штуки убираем из гита
+/nbproject/
+/.vscode/
+/.idea
